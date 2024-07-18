@@ -25,13 +25,13 @@
 - Trabajo en equipo
 
 ## Proyectos
-- **Proyecto 1**: [Nombre del Proyecto]
-  - **Descripción**: [Breve descripción del proyecto]
-  - **Tecnologías Utilizadas**: [Tecnologías]
+- **Proyecto 1**: Team Solution
+  - **Descripción**: Registro de informacion de empresas, dando enfoque a la creacion e impresion de recibo de los empleados
+  - **Tecnologías Utilizadas**: Laptop e Internet
 
-- **Proyecto 2**: [Nombre del Proyecto]
-  - **Descripción**: [Breve descripción del proyecto]
-  - **Tecnologías Utilizadas**: [Tecnologías]
+- **Proyecto 2**: Banco Responsable
+  - **Descripción**: Simulacion de banco
+  - **Tecnologías Utilizadas**: Laptop e Internet
 
 ## Intereses
 - Culminar mis estudios
